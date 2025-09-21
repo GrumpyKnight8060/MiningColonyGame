@@ -31,3 +31,8 @@
 .dll binary
 .exe binary
 .unitypackage binary
+* text=auto
+*.cs text eol=lf
+*.shader text eol=lf
+*.cginc text eol=lf
+
