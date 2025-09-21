@@ -15,12 +15,14 @@ MonoBehaviour:
   recipeName: Iron Rod
   icon: {fileID: 0}
   tier: 2
-  stations: 01000000
+  stations: 00000000
   inputs:
   - ingredient: {fileID: 11400000, guid: dca832ec45dcb0e48a698c267a3909f3, type: 2}
     amount: 1
     isLiquid: 0
-  outputs: []
+  outputs:
+  - product: {fileID: 11400000, guid: bebf04337603c2040850b457889befb3, type: 2}
+    amount: 2
   craftTimeSeconds: 3
   unlockedByDefault: 0
   unlockTag: 

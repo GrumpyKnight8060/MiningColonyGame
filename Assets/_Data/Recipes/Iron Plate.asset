@@ -15,12 +15,14 @@ MonoBehaviour:
   recipeName: Iron Plate
   icon: {fileID: 0}
   tier: 2
-  stations: 01000000
+  stations: 00000000
   inputs:
   - ingredient: {fileID: 11400000, guid: dca832ec45dcb0e48a698c267a3909f3, type: 2}
     amount: 1
     isLiquid: 0
-  outputs: []
+  outputs:
+  - product: {fileID: 11400000, guid: 76743215eeb10484c97b391df2a2eb1c, type: 2}
+    amount: 0
   craftTimeSeconds: 4
   unlockedByDefault: 0
   unlockTag: 

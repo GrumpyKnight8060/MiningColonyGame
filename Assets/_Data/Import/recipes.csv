@@ -1,0 +1,9 @@
+recipeName,tier,stations,inputs,outputs,craftTimeSeconds,unlockedByDefault,iconPath,unlockTag
+Glass Lens,2,BasicAssembler,2x Glass,1x Glass Lens,4,true,,Optics
+Crystal Lens,3,IndustrialAssembler,1x Glass;1x Quartz Crystal,1x Crystal Lens,6,true,,Optics
+Diamond Lens,5,AutomatedAssembler,1x Diamond;1x Crystal Lens,1x Diamond Lens,8,true,,Optics
+Carbon Rod,4,BlastFurnace,3x Coal,1x Carbon Rod,8,true,,Materials
+Composite Plate,5,AutomatedAssembler,1x Carbon Rod;1x Diamond,1x Composite Plate,10,true,,Materials
+Crystal Sight,4,AutomatedAssembler,1x Crystal Lens;1x Steel Bar,1x Crystal Sight,10,true,,Optics
+Quantum Optics Suite,6,MassAssembler,1x Quantum Circuit;1x Diamond Lens;1x Quartz Crystal,1x Quantum Optics Suite,15,true,,Optics
+Quantum Exo-Frame,6,MassAssembler,1x Quantum Circuit;1x Composite Plate;1x Alloy Mesh,1x Quantum Exo-Frame,15,true,,Armor

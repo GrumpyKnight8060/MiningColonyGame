@@ -1,7 +1,10 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewItem", menuName = "Game/Item", order = 2)]
-public class ItemSO : StackableSO
+[CreateAssetMenu(menuName = "MiningGame/Item")]
+public class ItemSO : StackableSO, IConstructible
 {
-    // Future: durability, equip slots, categories, etc.
+    // 'tier' already lives in StackableSO – don't redeclare it here.
+    public string itemName;
+
+    public string ObjectType => "Item";
 }
