@@ -1,0 +1,33 @@
+# Default normalize to LF in repo
+ text=auto eol=lf
+
+# Unity YAMLtext files (keep as text, LF)
+.meta      text eol=lf
+.unity     text eol=lf
+.prefab    text eol=lf
+.mat       text eol=lf
+.anim      text eol=lf
+.controller text eol=lf
+.asset     text eol=lf
+.cs        text eol=lf
+.shader    text eol=lf
+.json      text eol=lf
+.md        text eol=lf
+
+# Windows scripts keep CRLF
+.bat       text eol=crlf
+.cmd       text eol=crlf
+.ps1       text eol=crlf
+
+# Binary files
+.png binary
+.jpg binary
+.jpeg binary
+.fbx binary
+.tga binary
+.psd binary
+.wav binary
+.ogg binary
+.dll binary
+.exe binary
+.unitypackage binary
