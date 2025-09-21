@@ -64,3 +64,8 @@ desktop.ini
 
 # Ignore builds (again, just in case)
 Build/
+# IDE cache
+.vs/
+*.suo
+*.user
+

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2aea6683c656fd4d9881f098c3f85be, type: 3}
   m_Name: Steel Bar
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
-  displayName: 
+  displayName: Steel Bar
   icon: {fileID: 0}
-  tier: 4
+  tier: 3
   maxStack: 9999
   isRefined: 1
-  baseValue: 15
-  rarityWeight: 1
+  baseValue: 8
+  rarityWeight: 0

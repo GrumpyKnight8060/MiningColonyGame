@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c11739006450f1f48ae831a2aa7f135b, type: 3}
+  m_Name: Crystal Lens
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
+  recipeName: Crystal Lens
+  icon: {fileID: 0}
+  tier: 3
+  stations: 01000000
+  inputs:
+  - ingredient: {fileID: 11400000, guid: d9a7c8e883d5fa24ba9bf0159f4af31b, type: 2}
+    amount: 1
+    isLiquid: 0
+  - ingredient: {fileID: 11400000, guid: 5d9689ada377c7d43a283039bb0667de, type: 2}
+    amount: 1
+    isLiquid: 0
+  outputs:
+  - product: {fileID: 11400000, guid: c748ad77e4c954744a0ca8a5a5f15ecd, type: 2}
+    amount: 1
+  craftTimeSeconds: 6
+  unlockedByDefault: 1
+  unlockTag: Optics

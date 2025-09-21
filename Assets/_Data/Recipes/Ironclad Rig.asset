@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c11739006450f1f48ae831a2aa7f135b, type: 3}
+  m_Name: Ironclad Rig
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
+  recipeName: Ironclad Rig
+  icon: {fileID: 0}
+  tier: 3
+  stations: 01000000
+  inputs:
+  - ingredient: {fileID: 11400000, guid: dca832ec45dcb0e48a698c267a3909f3, type: 2}
+    amount: 1
+    isLiquid: 0
+  - ingredient: {fileID: 11400000, guid: e3b7e7769e96d9e49980091cfb64298c, type: 2}
+    amount: 1
+    isLiquid: 0
+  outputs:
+  - product: {fileID: 11400000, guid: 0b092a2cb6a1b9d4b94e64fe02f58d12, type: 2}
+    amount: 1
+  craftTimeSeconds: 8
+  unlockedByDefault: 1
+  unlockTag: Armor

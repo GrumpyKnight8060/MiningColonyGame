@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2aea6683c656fd4d9881f098c3f85be, type: 3}
   m_Name: Iron Ore
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
-  displayName: 
+  displayName: Iron Ore
   icon: {fileID: 0}
   tier: 1
   maxStack: 9999

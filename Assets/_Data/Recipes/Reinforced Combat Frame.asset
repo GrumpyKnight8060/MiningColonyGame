@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c11739006450f1f48ae831a2aa7f135b, type: 3}
+  m_Name: Reinforced Combat Frame
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
+  recipeName: Reinforced Combat Frame
+  icon: {fileID: 0}
+  tier: 5
+  stations: 02000000
+  inputs:
+  - ingredient: {fileID: 11400000, guid: e40ec803175508747b279673100f3c67, type: 2}
+    amount: 1
+    isLiquid: 0
+  outputs:
+  - product: {fileID: 11400000, guid: ef7790112aeef0543bde10068c5e7491, type: 2}
+    amount: 1
+  craftTimeSeconds: 12
+  unlockedByDefault: 1
+  unlockTag: Armor
