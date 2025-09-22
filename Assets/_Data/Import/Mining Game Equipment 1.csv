@@ -1,0 +1,118 @@
+Type,Item,Tier,Rarity,Equip Slot,Ore Production Per Hour,Item Carry Capacity Increase,Fluid Carry Capacity Increase,Defense,Defense Multiplier,Movement Speed Multiplier,Fatigue Multiplier,Power Cost Per Hour,Power Cost Per Use,Power Cost Per Tile,Power Type,POI Discovery Multiplier,Atk Pwr,Atk / Sec,Range,Accuracy,Crit Chance,Crit Damage,AOE,Repair Per Hour,Repair Per Hour Multiplier,Structure Decay Reduction Multiplier,Structure Efficiency Multiplier,Durability,Decay Per Hour,Decay Per Use,Miner,Soldier,Transporter,Technician,Explorer
+Equipment,Rough Pack,T1,Standard,Transport,0,15,0,5,1,0.72,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,250,7,0,Yes,No,Yes,No,Yes
+Equipment,Field Pack,T1,Standard,Transport,0,20,0,1,1,0.7,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,250,7,0,Yes,No,Yes,No,Yes
+Equipment,Guard Pack,T1,Standard,Transport,0,10,0,3,1,0.75,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,250,7,0,Yes,No,Yes,No,Yes
+Equipment,Explorer’s Pack,T2,Prototype,Transport,0,25,0,8,1,0.83,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,600,25,0,Yes,No,Yes,No,Yes
+Equipment,Sturdy Field Pack,T2,Prototype,Transport,0,30,0,3,1,0.8,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,600,25,0,Yes,No,Yes,No,Yes
+Equipment,Scout’s Pack,T2,Prototype,Transport,0,40,0,5,1,0.87,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,600,25,0,Yes,No,Yes,No,Yes
+Equipment,Expedition Pack,T3,Refined,Transport,0,30,0,12,1,0.95,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1000,30,0,No,No,Yes,No,Yes
+Equipment,Survivalist Pack,T3,Refined,Transport,0,35,0,8,1,0.92,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1000,30,0,No,No,Yes,No,Yes
+Equipment,Nomad’s Pack,T3,Refined,Transport,0,60,0,10,1,1,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1000,30,0,No,No,Yes,No,Yes
+Equipment,Pathfinder’s Pack,T4,Advanced,Transport,0,70,0,6,1,0.98,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1400,55,0,No,No,Yes,No,Yes
+Equipment,Vanguard Pack,T4,Advanced,Transport,0,90,0,15,1,1.05,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1400,55,0,No,No,Yes,No,Yes
+Equipment,Pioneer Pack,T5,Masterwork,Transport,0,160,0,8,1,1.02,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1800,75,0,No,No,Yes,No,Yes
+Equipment,Titan Pack,T5,Masterwork,Transport,0,120,0,20,1,1.08,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1800,75,0,No,No,Yes,No,Yes
+Equipment,Eternal Pack,T6,Archeotech,Transport,0,180,0,30,1,1.12,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,2400,100,0,No,No,No,No,Yes
+Equipment,Bronze Cart,T2,Prototype,Transport,0,40,0,8,1,0.7,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,600,10,0,Yes,No,Yes,No,No
+Equipment,Steel Cart,T3,Refined,Transport,0,60,0,15,1,0.75,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,900,12,0,Yes,No,Yes,No,No
+Equipment,Pickup Truck,T3,Refined,Transport,0,150,0,0,1.1,1,1,0,0,1,Fuel,0,0,0,0,0,0,0,0,0,1,1,1,2000,16,0,No,No,Yes,No,No
+Equipment,Fluid Truck,T3,Refined,Transport,0,0,500,0,1.2,1,1,0,0,2,Fuel,0,0,0,0,0,0,0,0,0,1,1,1,2000,16,0,No,No,Yes,No,No
+Equipment,Reinforced Steel Cart,T4,Advanced,Transport,0,80,0,20,1,0.8,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1100,14,0,Yes,No,Yes,No,No
+Equipment,Tanker Truck,T4,Advanced,Transport,0,0,2000,0,1,0.8,1,0,0,3,Fuel,0,0,0,0,0,0,0,0,0,1,1,1,2500,20,0,No,No,Yes,No,No
+Equipment,Carbon Fiber Cart,T5,Masterwork,Transport,0,100,0,30,1,0.85,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1300,16,0,Yes,No,Yes,No,No
+Equipment,Box Truck,T4,Advanced,Transport,0,250,0,0,1.15,1.05,1,0,0,3,Fuel,0,0,0,0,0,0,0,0,0,1,1,1,2500,20,0,No,No,Yes,No,No
+Equipment,Compressed Fluid Truck,T5,Masterwork,Transport,0,0,5000,0,1.1,1.1,1,0,0,7,Fuel,0,0,0,0,0,0,0,0,0,1,1,1,3500,25,0,No,No,Yes,No,No
+Equipment,Reinforced Box Truck,T5,Masterwork,Transport,0,500,0,0,1.2,1.1,1,0,0,7,Fuel,0,0,0,0,0,0,0,0,0,1,1,1,3500,25,0,No,No,Yes,No,No
+Equipment,Armored Cargo Carrier,T6,Archeotech,Transport,0,750,0,0,1.6,2.3,1,0,0,12,Fuel,0,0,0,0,0,0,0,0,0,1,1,1,4500,28,0,No,No,Yes,No,No
+Equipment,Copper Helmet,T1,Standard,Helmet,0,0,0,3,1,0.8,1.02,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,100,2,20,Yes,Yes,Yes,No,No
+Equipment,Bronze Helmet,T1,Standard,Helmet,0,0,0,3,1,0.8,1.02,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,100,2,20,Yes,Yes,Yes,No,No
+Equipment,Iron Helmet,T2,Prototype,Helmet,0,0,0,5,1,0.85,1.06,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,140,4,20,Yes,Yes,Yes,No,No
+Equipment,Steel Helmet,T2,Prototype,Helmet,0,0,0,5,1,0.85,1.06,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,140,4,20,Yes,Yes,Yes,No,No
+Equipment,Reinforced Plastic Helmet,T3,Refined,Helmet,0,0,0,8,1,0.9,1.06,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,500,6,60,Yes,Yes,Yes,No,No
+Equipment,Carbon Fiber Helmet,T4,Advanced,Helmet,0,0,0,12,1,0.93,1.12,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,800,8,80,Yes,Yes,Yes,No,No
+Equipment,Powered Helm,T5,Masterwork,Helmet,0,0,0,20,1,0.95,1,0,1,0,Energy Cell,0,0,0,0,0,0,0,0,0,1,1,1,1938,0,114,No,Yes,No,No,No
+Equipment,Advanced Combat Helm,T5,Masterwork,Helmet,0,0,0,25,1,0.9,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,2976,0,124,No,Yes,No,No,No
+Equipment,Titan Helm System,T6,Archeotech,Helmet,0,0,0,10,1,1,1,0,1,0,Exotic Energy Core,0,0,0,0,0,0,0,0,0,1,1,1,4940,0,130,No,Yes,No,No,No
+Equipment,Baton,T1,Standard,Weapon,0,0,0,0,1,1,1,0,0,0,None,0,12,1.3,0,0.85,0.05,1.4,0,0,1,1,1,300,0,15,No,Yes,No,No,No
+Equipment,Brass Knuckles,T1,Standard,Weapon,0,0,0,0,1,1,1,0,0,0,None,0,10,1.6,0,0.9,0.08,1.6,0,0,1,1,1,250,0,12,No,Yes,No,No,No
+Equipment,Pistol (9mm),T1,Standard,Weapon,0,0,0,0,1,1,1,0,1,0,9mm Rounds,0,15,1.2,2,0.7,0.05,1.5,0,0,1,1,1,500,0,25,No,Yes,No,No,No
+Equipment,Revolver (.38),T1,Standard,Weapon,0,0,0,0,1,1,1,0,1,0,.38 Rounds,0,22,0.8,2,0.65,0.1,2,0,0,1,1,1,450,0,22,No,Yes,No,No,No
+Equipment,Pump Shotgun (12ga),T1,Standard,Weapon,0,0,0,0,1,1,1,0,1,0,12ga Shells,0,40,0.7,1,0.5,0.08,1.8,1,0,1,1,1,400,0,20,No,Yes,No,No,No
+Equipment,SMG (9mm),T2,Prototype,Weapon,0,0,0,0,1,1,1,0,0,0,9mm Rounds,0,6,6,2,0.65,0.06,1.4,0,0,1,1,1,550,0,18,No,Yes,No,No,No
+Equipment,Carbine (5.56),T2,Prototype,Weapon,0,0,0,0,1,1,1,0,1,0,5.56 Rounds,0,18,2.5,3,0.75,0.08,1.7,0,0,1,1,1,600,0,20,No,Yes,No,No,No
+Equipment,Tactical Shotgun (12ga),T2,Prototype,Weapon,0,0,0,0,1,1,1,0,0,0,12ga Shells,0,35,0.9,2,0.6,0.1,1.8,1,0,1,1,1,500,0,17,No,Yes,No,No,No
+Equipment,Fragmentation Grenade,T2,Prototype,Weapon,0,0,0,0,1,1,1,0,1,0,Fragmentation Grenade,0,90,0.3,2,0.7,0,1,1,0,1,1,1,1,0,1,No,Yes,No,No,No
+Equipment,Assault Rifle,T3,Refined,Weapon,0,0,0,0,1,1,1,0,1,0,5.56 / 7.62 Rounds,0,20,3.5,3,0.78,0.1,1.7,0,0,1,1,1,700,0,14,No,Yes,No,No,No
+Equipment,Designated Marksman Rifle (DMR),T3,Refined,Weapon,0,0,0,0,1,1,1,0,1,0,7.62 Rounds,0,35,1.2,4,0.85,0.15,2,0,0,1,1,1,650,0,13,No,Yes,No,No,No
+Equipment,Light Machine Gun (LMG),T3,Refined,Weapon,0,0,0,0,1,1,1,0,1,0,5.56 / 7.62 Rounds,0,14,5,3,0.6,0.08,1.6,0,0,1,1,1,800,0,16,No,Yes,No,No,No
+Equipment,Incendiary Grenade,T3,Refined,Weapon,0,0,0,0,1,1,1,0,1,0,Incendiary Grenade,0,100,0.3,2,0.75,0,1,2,0,1,1,1,1,0,1,No,Yes,No,No,No
+Equipment,Grenade Launcher (40mm),T4,Advanced,Weapon,0,0,0,0,1,1,1,0,1,0,40mm Grenades,0,120,0.5,3,0.7,0.05,1.5,2,0,1,1,1,700,0,9,No,Yes,No,No,No
+Equipment,Coilgun (Rail-Scout),T4,Advanced,Weapon,0,0,0,0,1,1,1,0,1,0,"Capacitor, Slugs",0,85,0.8,4,0.8,0.1,1.9,0,0,1,1,1,750,0,9,No,Yes,No,No,No
+Equipment,High-Velocity Sniper (.50),T4,Advanced,Weapon,0,0,0,0,1,1,1,0,1,0,.50 BMG / AP,0,180,0.4,5,0.9,0.2,2.2,0,0,1,1,1,650,0,8,No,Yes,No,No,No
+Equipment,Shockwave Grenade,T4,Advanced,Weapon,0,0,0,0,1,1,1,0,1,0,Shockwave Grenade,0,110,0.3,3,0.75,0,1,3,0,1,1,1,1,0,1,No,Yes,No,No,No
+Equipment,Energy Carbine,T5,Masterwork,Weapon,0,0,0,0,1,1,1,0,1,0,Energy Cell,0,55,3,4,0.88,0.12,1.8,0,0,1,1,1,900,0,9,No,Yes,No,No,No
+Equipment,Plasma Rifle,T5,Masterwork,Weapon,0,0,0,0,1,1,1,0,1,0,Plasma Cores,0,150,1,3,0.75,0.1,2,1,0,1,1,1,850,0,8,No,Yes,No,No,No
+Equipment,Particle Accelerator Rifle,T6,Archeotech,Weapon,0,0,0,0,1,1,1,0,1,0,Exotic Energy Core,0,500,0.25,5,0.92,0.25,2.5,3,0,1,1,1,1000,0,8,No,Yes,No,No,No
+Equipment,Copper Pickaxe,T1,Standard,Hands,10,0,0,0,1,1,1,10,0,0,Fatigue,0,0,0,0,0,0,0,0,0,1,1,1,500,20,0,Yes,No,No,No,No
+Equipment,Bronze Pickaxe,T1,Standard,Hands,15,0,0,0,1,1,1,12,0,0,Fatigue,0,0,0,0,0,0,0,0,0,1,1,1,700,22,0,Yes,No,No,No,No
+Equipment,Iron Pickaxe,T2,Prototype,Hands,17,0,0,0,1,1,1,15,0,0,Fatigue,0,0,0,0,0,0,0,0,0,1,1,1,1000,25,0,Yes,No,No,No,No
+Equipment,Steel Pickaxe,T2,Prototype,Hands,20,0,0,0,1,1,1,19,0,0,Fatigue,0,0,0,0,0,0,0,0,0,1,1,1,1200,27,0,Yes,No,No,No,No
+Equipment,Bronze Hand Drill,T2,Prototype,Hands,25,0,0,0,1,1,1,20,0,0,Fatigue,0,0,0,0,0,0,0,0,0,1,1,1,800,21,0,Yes,No,No,No,No
+Equipment,Steel Hand Drill,T4,Advanced,Hands,30,0,0,0,1,1,1,25,0,0,Fatigue,0,0,0,0,0,0,0,0,0,1,1,1,1300,26,0,Yes,No,No,No,No
+Equipment,Cloth Padding,T1,Standard,Armor,0,0,0,5,1,1,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1000,0,200,No,Yes,Yes,No,Yes
+Equipment,Padded Vest,T1,Standard,Armor,0,0,0,7,1,0.95,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1200,0,240,No,Yes,Yes,No,Yes
+Equipment,Leather Harness,T1,Standard,Armor,0,0,0,10,1,0.9,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,1400,0,280,No,Yes,Yes,No,Yes
+Equipment,Field Vest,T2,Prototype,Armor,0,0,0,15,1,0.95,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,2400,0,300,No,Yes,Yes,No,Yes
+Equipment,Reinforced Jacket,T2,Prototype,Armor,0,0,0,17,1,0.92,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,2799,0,311,No,Yes,Yes,No,Yes
+Equipment,Composite Rig,T2,Prototype,Armor,0,0,0,20,1,0.88,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,3190,0,290,No,Yes,Yes,No,Yes
+Equipment,Steel Vest,T3,Refined,Armor,0,0,0,25,1,0.92,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,4995,0,333,No,Yes,Yes,No,Yes
+Equipment,Reinforced Plates,T3,Refined,Armor,0,0,0,30,1,0.88,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,5490,0,305,No,Yes,Yes,No,Yes
+Equipment,Composite Armor,T3,Refined,Armor,0,0,0,35,1,0.85,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,5786,0,263,No,Yes,Yes,No,Yes
+Equipment,Ballistic Vest,T4,Advanced,Armor,0,0,0,38,1,0.9,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,8000,0,320,No,Yes,Yes,No,Yes
+Equipment,Tactical Plate Carrier,T4,Advanced,Armor,0,0,0,42,1,0.85,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,8988,0,321,No,Yes,Yes,No,Yes
+Equipment,Heavy Composite Suit,T4,Advanced,Armor,0,0,0,45,1,0.8,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,9984,0,312,No,Yes,Yes,No,Yes
+Equipment,Powered Exo-Frame,T5,Masterwork,Armor,0,0,0,55,1,0.75,1,0,1,0, Energy Cell,0,0,0,0,0,0,0,0,0,1,1,1,11970,0,342,No,Yes,No,No,No
+Equipment,Advanced Combat Suit,T5,Masterwork,Armor,0,0,0,60,1,0.8,1,0,0,0,None,0,0,0,0,0,0,0,0,0,1,1,1,12985,0,371,No,Yes,No,No,No
+Equipment,Titan Armor System,T6,Archeotech,Armor,0,0,0,100,1,1,1,0,1,0,Exotic Energy Core,0,0,0,0,0,0,0,0,0,1,1,1,15000,0,375,No,Yes,No,No,No
+Equipment,Swift-Lens Binoculars,T1,Standard,Optics,0,0,0,0,1.01,1.1,1,0,0,0,None,1.02,0,0,0,0,0,0,0,0,1,1,1,1500,30,0,No,No,No,No,Yes
+Equipment,Surveyor’s Scope,T1,Standard,Optics,0,0,0,0,1.01,1.02,1,0,0,0,None,1.1,0,0,0,0,0,0,0,0,1,1,1,1500,30,0,No,No,No,No,Yes
+Equipment,Guarded Gaze,T1,Standard,Optics,0,0,0,0,1.1,1.02,1,0,0,0,None,1.02,0,0,0,0,0,0,0,0,1,1,1,1500,30,0,No,No,No,No,Yes
+Equipment,Pathfinder’s Glass,T2,Prototype,Optics,0,0,0,0,1.02,1.2,1,0,0,0,None,1.04,0,0,0,0,0,0,0,0,1,1,1,1800,40,0,No,No,No,No,Yes
+Equipment,Explorer’s Lens,T2,Prototype,Optics,0,0,0,0,1.02,1.04,1,0,0,0,None,1.2,0,0,0,0,0,0,0,0,1,1,1,1800,40,0,No,No,No,No,Yes
+Equipment,Defender’s Binoculars,T2,Prototype,Optics,0,0,0,0,1.2,1.04,1,0,0,0,None,1.04,0,0,0,0,0,0,0,0,1,1,1,1800,40,0,No,No,No,No,Yes
+Equipment,Nomad’s Scope,T3,Refined,Optics,0,0,0,0,1.03,1.35,1,0,0,0,None,1.06,0,0,0,0,0,0,0,0,1,1,1,2000,50,0,No,No,No,No,Yes
+Equipment,Survey Commander,T3,Refined,Optics,0,0,0,0,1.03,1.06,1,0,0,0,None,1.35,0,0,0,0,0,0,0,0,1,1,1,2000,50,0,No,No,No,No,Yes
+Equipment,Guardian Optics,T3,Refined,Optics,0,0,0,0,1.35,1.06,1,0,0,0,None,1.06,0,0,0,0,0,0,0,0,1,1,1,2000,50,0,No,No,No,No,Yes
+Equipment,Recon Scope,T4,Advanced,Optics,0,0,0,0,1.25,1.25,1,0,0,0,None,1.25,0,0,0,0,0,0,0,0,1,1,1,2200,60,0,No,No,No,No,Yes
+Equipment,Frontier Binoculars,T4,Advanced,Optics,0,0,0,0,1.2,1.3,1,0,0,0,None,1.2,0,0,0,0,0,0,0,0,1,1,1,2200,60,0,No,No,No,No,Yes
+Equipment,Command Lens,T5,Masterwork,Optics,0,0,0,0,1.3,1.35,1,0,0,0,None,1.3,0,0,0,0,0,0,0,0,1,1,1,2400,70,0,No,No,No,No,Yes
+Equipment,Pioneer’s Gaze,T5,Masterwork,Optics,0,0,0,0,1.3,1.3,1,0,0,0,None,1.35,0,0,0,0,0,0,0,0,1,1,1,2400,70,0,No,No,No,No,Yes
+Equipment,Voidglass Surveyor,T6,Archeotech,Optics,0,0,0,0,1.5,1.5,1,0,0,0,None,1.5,0,0,0,0,0,0,0,0,1,1,1,2600,80,0,No,No,No,No,Yes
+Equipment,Basic Repair Wrench,T1,Standard,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,50,1,0.98,1,1000,25 / Hr,0,No,No,No,Yes,No
+Equipment,Decay Sealant Kit,T1,Standard,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,30,1,0.85,1,1000,25 / Hr,0,No,No,No,Yes,No
+Equipment,Calibration Goggles,T1,Standard,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,30,1,0.95,1.1,1000,25 / Hr,0,No,No,No,Yes,No
+Equipment,Electric Spanner,T2,Prototype,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,100,1,0.9,1.05,2000,45 / Hr,0,No,No,No,Yes,No
+Equipment,Decay Barrier Kit,T2,Prototype,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,40,1,0.8,1.05,2000,45 / Hr,0,No,No,No,Yes,No
+Equipment,Analyzer Pad,T2,Prototype,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,40,1,0.9,1.15,2000,45 / Hr,0,No,No,No,Yes,No
+Equipment,Industrial Toolkit,T3,Refined,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,150,1,0.85,1.1,3500,70 / Hr,0,No,No,No,Yes,No
+Equipment,Decay Suppression Kit,T3,Refined,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,80,1,0.7,1.1,3500,70 / Hr,0,No,No,No,Yes,No
+Equipment,Efficiency Scanner,T3,Refined,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,80,1,0.85,1.2,3500,70 / Hr,0,No,No,No,Yes,No
+Equipment,Auto-Repair Drone,T4,Advanced,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,80,1,0.7,1.05,5000,100 / Hr,0,No,No,No,Yes,No
+Equipment,Network Uplink Toolkit,T4,Advanced,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,200,1,0.65,1.2,5000,100 / Hr,0,No,No,No,Yes,No
+Equipment,Service Rig,T5,Masterwork,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,1000,1,0.7,1.3,7000,100 / Hr,0,No,No,No,Yes,No
+Equipment,Predictive Maintenance Kit,T5,Masterwork,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,1500,1,0.55,1.1,7000,100 / Hr,0,No,No,No,Yes,No
+Equipment,Nanite Repair Array,T6,Archeotech,Tool,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,2000,1,0.5,1.25,10000,150 / Hr,0,No,No,No,Yes,No
+Equipment,Calibration Goggles,T1,Standard,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1,0.95,1.1,1000,25 / Hr,0,No,No,No,Yes,No
+Equipment,Durability Meter,T1,Standard,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1,0.85,1,1000,25 / Hr,0,No,No,No,Yes,No
+Equipment,Basic Analyzer,T1,Standard,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.05,0.95,1,1000,25 / Hr,0,No,No,No,Yes,No
+Equipment,Analyzer Pad,T2,Prototype,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.05,0.9,1.1,2000,44 / Hr,0,No,No,No,Yes,No
+Equipment,Stability Monitor,T2,Prototype,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.05,0.8,1,2000,44 / Hr,0,No,No,No,Yes,No
+Equipment,Repair HUD,T2,Prototype,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.1,0.9,1,2000,44 / Hr,0,No,No,No,Yes,No
+Equipment,Efficiency Scanner,T3,Refined,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.1,0.85,1.15,3500,72 / Hr,0,No,No,No,Yes,No
+Equipment,Decay Suppression Monitor,T3,Refined,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.1,0.75,1.05,3500,72 / Hr,0,No,No,No,Yes,No
+Equipment,Advanced Analyzer,T3,Refined,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.2,0.85,1.05,3500,72 / Hr,0,No,No,No,Yes,No
+Equipment,Network Uplink,T4,Advanced,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.1,0.75,1.15,5000,100 / Hr,0,No,No,No,Yes,No
+Equipment,Diagnostic Relay,T4,Advanced,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.25,0.85,1.15,5000,100 / Hr,0,No,No,No,Yes,No
+Equipment,Predictive AI Module,T5,Masterwork,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.2,0.7,1.2,7000,130 / Hr,0,No,No,No,Yes,No
+Equipment,Maintenance Overwatch,T5,Masterwork,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.2,0.7,1.1,7000,130 / Hr,0,No,No,No,Yes,No
+Equipment,System Overseer,T6,Archeotech,Device,0,0,0,0,1,1,1,0,0,0,None,1,0,0,0,0,0,0,0,0,1.25,0.7,1.2,10000,160 / Hr,0,No,No,No,Yes,No

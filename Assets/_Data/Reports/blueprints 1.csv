@@ -1,0 +1,118 @@
+BlueprintName,Tier,Unlocks
+BP: Copper Pickaxe,1,Copper Pickaxe
+BP: Bronze Pickaxe,1,Bronze Pickaxe
+BP: Iron Pickaxe,2,Iron Pickaxe
+BP: Steel Pickaxe,2,Steel Pickaxe
+BP: Bronze Hand Drill,2,Bronze Hand Drill
+BP: Steel Hand Drill,4,Steel Hand Drill
+BP: Copper Helmet,1,Copper Helmet
+BP: Bronze Helmet,1,Bronze Helmet
+BP: Iron Helmet,2,Iron Helmet
+BP: Steel Helmet,2,Steel Helmet
+BP: Reinforced Plastic Helmet,3,Reinforced Plastic Helmet
+BP: Carbon Fiber Helmet,3,Carbon Fiber Helmet
+BP: Powered Helm,4,Powered Helm
+BP: Advanced Combat Helm,5,Advanced Combat Helm
+BP: Titan Helm System,6,Titan Helm System
+BP: Rough Pack,1,Rough Pack
+BP: Field Pack,2,Field Pack
+BP: Guard Pack,2,Guard Pack
+BP: Explorer’s Pack,3,Explorer’s Pack
+BP: Ranger’s Pack,3,Ranger’s Pack
+BP: Technician’s Pack,3,Technician’s Pack
+BP: Surveyor’s Pack,3,Surveyor’s Pack
+BP: Expedition Pack,4,Expedition Pack
+BP: Combat Pack,4,Combat Pack
+BP: Logistics Pack,4,Logistics Pack
+BP: Power Pack,4,Power Pack
+BP: Advanced Expedition Pack,5,Advanced Expedition Pack
+BP: Advanced Combat Pack,5,Advanced Combat Pack
+BP: Advanced Logistics Pack,5,Advanced Logistics Pack
+BP: Advanced Power Pack,5,Advanced Power Pack
+BP: Quantum Expedition Pack,6,Quantum Expedition Pack
+BP: Quantum Combat Pack,6,Quantum Combat Pack
+BP: Quantum Logistics Pack,6,Quantum Logistics Pack
+BP: Quantum Power Pack,6,Quantum Power Pack
+BP: Safety Vest,1,Safety Vest
+BP: Work Jacket,1,Work Jacket
+BP: Utility Harness,1,Utility Harness
+BP: Fiber Weave Vest,1,Fiber Weave Vest
+BP: Reinforced Fiber Suit,2,Reinforced Fiber Suit
+BP: Chain Assembly Suit,2,Chain Assembly Suit
+BP: Ironclad Rig,3,Ironclad Rig
+BP: Forged Alloy Suit,3,Forged Alloy Suit
+BP: Steel Plated Suit,4,Steel Plated Suit
+BP: Composite Field Suit,4,Composite Field Suit
+BP: Reinforced Combat Frame,5,Reinforced Combat Frame
+BP: Tactical Operations Suit,5,Tactical Operations Suit
+BP: Quantum Exo-Frame,6,Quantum Exo-Frame
+BP: Standard Binoculars,1,Standard Binoculars
+BP: Glass Survey Scope,1,Glass Survey Scope
+BP: Inspection Lens,1,Inspection Lens
+BP: Polished Optics,2,Polished Optics
+BP: Brass Survey Scope,2,Brass Survey Scope
+BP: Reinforced Lens Array,2,Reinforced Lens Array
+BP: Precision Surveyor,3,Precision Surveyor
+BP: Iron-Cased Scope,3,Iron-Cased Scope
+BP: Tactical Optics Rig,4,Tactical Optics Rig
+BP: Crystal Sight,4,Crystal Sight
+BP: Advanced Targeting Optics,5,Advanced Targeting Optics
+BP: Diamond Lens Array,5,Diamond Lens Array
+BP: Quantum Optics Suite,6,Quantum Optics Suite
+BP: Baton,1,Baton
+BP: Brass Knuckles,1,Brass Knuckles
+BP: Pistol (9mm),1,Pistol (9mm)
+BP: Revolver (.38),1,Revolver (.38)
+BP: Pump Shotgun (12ga),1,Pump Shotgun (12ga)
+BP: Submachine Gun (9mm),2,Submachine Gun (9mm)
+BP: Assault Rifle (5.56),3,Assault Rifle (5.56)
+BP: Battle Rifle (7.62),3,Battle Rifle (7.62)
+BP: Marksman Rifle (DMR),3,Marksman Rifle (DMR)
+BP: Combat Shotgun (12ga),3,Combat Shotgun (12ga)
+BP: Sniper Rifle (.308),4,Sniper Rifle (.308)
+BP: Heavy Machine Gun,4,Heavy Machine Gun
+BP: Flamethrower,4,Flamethrower
+BP: Plasma Pistol,4,Plasma Pistol
+BP: Plasma Rifle,5,Plasma Rifle
+BP: Railgun,5,Railgun
+BP: Laser Carbine,5,Laser Carbine
+BP: Quantum Disruptor,6,Quantum Disruptor
+BP: Crude Drill,3,Crude Drill
+BP: Steam Drill,4,Steam Drill
+BP: Electric Drill,5,Electric Drill
+BP: Excavation Rig,6,Excavation Rig
+BP: Iron Drill Head,2,Iron Drill Head
+BP: Steel Drill Head,3,Steel Drill Head
+BP: Diamond Drill Head,5,Diamond Drill Head
+BP: Ore Conveyor (Basic),2,Ore Conveyor (Basic)
+BP: Ore Conveyor (Industrial),3,Ore Conveyor (Industrial)
+BP: Ore Conveyor (Mass),6,Ore Conveyor (Mass)
+BP: Basic Assembler,1,Basic Assembler
+BP: Industrial Assembler,3,Industrial Assembler
+BP: Automated Assembler,4,Automated Assembler
+BP: Mass Assembler,6,Mass Assembler
+BP: Stone Smelter,1,Stone Smelter
+BP: Electric Smelter,3,Electric Smelter
+BP: Blast Furnace,4,Blast Furnace
+BP: Quantum Smelter,6,Quantum Smelter
+BP: Basic Refinery,3,Basic Refinery
+BP: Industrial Refinery,4,Industrial Refinery
+BP: Mass Refinery,6,Mass Refinery
+BP: Fuel Depot,3,Fuel Depot
+BP: Fluid Pump,3,Fluid Pump
+BP: Advanced Fluid Pump,4,Advanced Fluid Pump
+BP: Quantum Pump,6,Quantum Pump
+BP: Storage Crate,1,Storage Crate
+BP: Storage Depot,3,Storage Depot
+BP: Mega Storage Yard,6,Mega Storage Yard
+BP: Solar Array,3,Solar Array
+BP: Coal Generator,2,Coal Generator
+BP: Nuclear Reactor,5,Nuclear Reactor
+BP: Power Substation,3,Power Substation
+BP: Radar Tower,3,Radar Tower
+BP: Research Station T1,1,Research Station T1
+BP: Research Station T2,2,Research Station T2
+BP: Research Station T3,3,Research Station T3
+BP: Research Station T4,4,Research Station T4
+BP: Research Station T5,5,Research Station T5
+BP: Research Station T6,6,Research Station T6

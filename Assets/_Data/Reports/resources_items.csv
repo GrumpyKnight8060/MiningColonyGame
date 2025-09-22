@@ -1,0 +1,140 @@
+Type,Name,Tier,Refined,BaseValue,MaxStack,Category
+Resource,"Aetherium Ore",6,False,20,9999,
+Resource,"Axle",3,False,6,9999,
+Resource,"Battery Cell (Large)",5,False,20,9999,
+Resource,"Battery Cell (Small)",3,False,8,9999,
+Resource,"Bearing",3,False,5,9999,
+Resource,"Bronze Bar",3,False,8,9999,
+Resource,"Bronze Cog",3,False,6,9999,
+Resource,"Circuit Board",3,False,8,9999,
+Resource,"Coal",1,False,1,100,
+Resource,"Coolant",3,False,5,9999,
+Resource,"Copper Bar",2,True,5,100,
+Resource,"Copper Ore",1,False,1,200,
+Resource,"Copper Wire",2,False,4,9999,
+Resource,"Diamond",5,False,100,9999,
+Resource,"Electrolyte",3,True,9,200,
+Resource,"Electronics",4,False,12,9999,
+Resource,"Engine Block",5,False,28,99,
+Resource,"Enriched Uranium",5,True,40,20,
+Resource,"Fasteners (Bolts)",2,False,3,9999,
+Resource,"Fiber",2,False,2,200,
+Resource,"Frame Rail (Steel)",4,False,16,9999,
+Resource,"Fuel",3,False,0,9999,
+Resource,"Fuel (Refined)",3,False,8,9999,
+Resource,"Fuel Canister",3,False,7,9999,
+Resource,"Fuel Cell (Motor)",5,False,30,99,
+Resource,"Glass",2,False,5,9999,
+Resource,"Gold Bar",4,True,12,100,
+Resource,"Gold Ore",3,False,12,100,
+Resource,"Hydrogen (Gas)",3,True,10,200,
+Resource,"Iron Bar",2,True,5,100,
+Resource,"Iron Ore",1,False,1,200,
+Resource,"Iron Plate",2,False,5,9999,
+Resource,"Iron Rod",2,False,4,9999,
+Resource,"Lens",3,False,6,9999,
+Resource,"Nuclear Fuel Rod",6,False,80,99,
+Resource,"Oil",2,False,3,100,
+Resource,"Optics Housing",3,False,5,9999,
+Resource,"Plastic",3,False,6,9999,
+Resource,"Power Core (Basic)",5,False,20,99,
+Resource,"Quartz Crystal",2,False,8,100,
+Resource,"Rubber",3,False,6,9999,
+Resource,"Rubber Sap (Latex)",2,False,4,100,
+Resource,"Sand (Silica)",1,False,3,200,
+Resource,"Silver Bar",3,True,9,100,
+Resource,"Silver Ore",2,False,7,100,
+Resource,"Solar Array Module",3,False,18,99,
+Resource,"Solar Cell",2,False,6,9999,
+Resource,"Steel Bar",3,True,7,100,
+Resource,"Steel Cog",3,False,8,9999,
+Resource,"Steel Plate",3,False,8,9999,
+Resource,"Steel Rod",3,False,6,9999,
+Resource,"Stone",1,False,1,200,
+Resource,"Sulfur (Mining)",2,False,6,100,
+Resource,"Sulfur (Refined)",3,True,8,100,
+Resource,"Tin Bar",2,True,5,100,
+Resource,"Tin Ore",1,False,1,200,
+Resource,"Tire",4,False,12,9999,
+Resource,"Truck Frame",5,False,25,99,
+Resource,"Uranium Ore",5,False,30,9999,
+Resource,"Voidite",1,False,0,9999,
+Resource,"Voidite Ore",6,False,25,9999,
+Resource,"Water",1,False,1,200,
+Resource,"Wheel Assembly",4,False,14,9999,
+Resource,"Wood",1,False,1,200,
+Item,"Acid",3,,0,200,"Chemical"
+Item,"Advanced Targeting Optics",1,,0,9999,""
+Item,"Alloy Mesh",1,,0,9999,""
+Item,"Axle",3,,0,100,"Component"
+Item,"Battery Cell (Large)",3,,0,100,"Power"
+Item,"Battery Cell (Small)",2,,0,200,"Power"
+Item,"Bearing",3,,0,200,"Component"
+Item,"Brass Survey Scope",1,,0,9999,""
+Item,"Bronze Cog",2,,0,200,"Component"
+Item,"Carbon Rod",3,,0,200,"Component"
+Item,"Chain Assembly Suit",1,,0,9999,""
+Item,"Circuit Board",3,,0,200,"Electronics"
+Item,"Circuit Module Mk.I (Copper)",3,,0,100,"Electronics"
+Item,"Circuit Module Mk.II (Silver)",4,,0,100,"Electronics"
+Item,"Circuit Module Mk.III (Gold)",5,,0,100,"Electronics"
+Item,"Composite Field Suit",1,,0,9999,""
+Item,"Composite Plate",4,,0,100,"Component"
+Item,"Coolant",3,,0,200,"Power"
+Item,"Copper Wire",2,,0,400,"Component"
+Item,"Crystal Lens",4,,0,100,"Optics"
+Item,"Crystal Sight",1,,0,9999,""
+Item,"Diamond Lens",5,,0,50,"Optics"
+Item,"Diamond Lens Array",1,,0,9999,""
+Item,"Engine Block",4,,0,50,"Component"
+Item,"Explorer Pack Mk.I",1,,0,9999,""
+Item,"Explorer Pack Mk.II",1,,0,9999,""
+Item,"Explorer Pack Mk.III",1,,0,9999,""
+Item,"Explorer Pack Mk.IV",1,,0,9999,""
+Item,"Explorer Pack Mk.V",1,,0,9999,""
+Item,"Explorer Pack Mk.VI",1,,0,9999,""
+Item,"Fasteners (Bolts)",2,,0,400,"Component"
+Item,"Fiber Weave Vest",1,,0,9999,""
+Item,"Forged Alloy Suit",1,,0,9999,""
+Item,"Frame Rail (Steel)",3,,0,100,"Component"
+Item,"Fuel (Refined)",3,,0,200,"Power"
+Item,"Fuel Cell (Motor)",4,,0,50,"Power"
+Item,"Glass",2,,0,200,"Component"
+Item,"Glass Lens",3,,0,100,"Optics"
+Item,"Glass Survey Scope",1,,0,9999,""
+Item,"Inspection Lens",1,,0,9999,""
+Item,"Iron Plate",1,,0,200,"Component"
+Item,"Iron Rod",1,,0,200,"Component"
+Item,"Iron-Cased Scope",1,,0,9999,""
+Item,"Ironclad Rig",1,,0,9999,""
+Item,"Lens",4,,0,100,"Optics"
+Item,"Optics Housing",3,,0,200,"Optics"
+Item,"Pack Frame (Mk.I)",1,,0,9999,""
+Item,"Pack Frame (Mk.II)",1,,0,9999,""
+Item,"Pack Frame (Mk.III)",1,,0,9999,""
+Item,"Plastic",3,,0,200,"Chemical"
+Item,"Polished Optics",1,,0,9999,""
+Item,"Power Core (Basic)",3,,0,50,"Power"
+Item,"Precision Surveyor",1,,0,9999,""
+Item,"Quantum Exo-Frame",1,,0,9999,""
+Item,"Quantum Optics Suite",1,,0,9999,""
+Item,"Reinforced Combat Frame",1,,0,9999,""
+Item,"Reinforced Fiber Suit",1,,0,9999,""
+Item,"Reinforced Lens Array",1,,0,9999,""
+Item,"Rubber",3,,0,200,"Component"
+Item,"Solar Array Module",4,,0,50,"Power"
+Item,"Solar Cell",3,,0,200,"Power"
+Item,"Standard Binoculars",1,,0,9999,""
+Item,"Steel Cog",3,,0,200,"Component"
+Item,"Steel Plate",3,,0,200,"Component"
+Item,"Steel Plated Suit",1,,0,9999,""
+Item,"Steel Rod",3,,0,200,"Component"
+Item,"Strap Kit",1,,0,9999,""
+Item,"Strap Strip",1,,0,9999,""
+Item,"Tactical Operations Suit",1,,0,9999,""
+Item,"Tactical Optics Rig",1,,0,9999,""
+Item,"Tire",3,,0,100,"Component"
+Item,"Truck Frame",4,,0,20,"Component"
+Item,"Utility Harness",1,,0,9999,""
+Item,"Wheel Assembly",3,,0,50,"Component"
+Item,"Work Jacket",1,,0,9999,""

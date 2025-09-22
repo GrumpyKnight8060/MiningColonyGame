@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e200de6e3a89152478b805d046ccbe83, type: 3}
+  m_Name: Tactical Shotgun (12ga)
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSO
+  itemName: Tactical Shotgun (12ga)
+  displayName: Tactical Shotgun (12ga)
+  tier: 1
+  rarity: Prototype
+  category: 
+  maxStack: 100
+  usableBy:
+  - Soldier
+  tags:
+  - Weapon
+  slot: Weapon
+  powerType: 12ga Shells
+  oreProductionPerHour: 0
+  itemCarryCapacityIncrease: 0
+  fluidCarryCapacityIncrease: 0
+  defense: 0
+  defenseMultiplier: 1
+  movementSpeedMultiplier: 1
+  fatigueMultiplier: 1
+  powerCostPerHour: 0
+  powerCostPerUse: 0
+  powerCostPerTile: 0
+  poiDiscoveryMultiplier: 0
+  attackPower: 35
+  attacksPerSec: 0.9
+  range: 2
+  accuracy: 0.6
+  critChance: 0.1
+  critDamage: 1.8
+  aoe: 1
+  repairPerHour: 0
+  repairPerHourMultiplier: 1
+  structureDecayReductionMultiplier: 1
+  structureEfficiencyMultiplier: 1
+  durability: 500
+  decayPerHour: 0
+  decayPerUse: 17

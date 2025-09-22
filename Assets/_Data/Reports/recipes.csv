@@ -1,0 +1,38 @@
+RecipeName,Tier,Stations,Inputs,Outputs,Time,Unlocked
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+Battery Cell (Small),2,BasicAssembler,Copper Wire x2,Battery Cell (Small) x1,3,True
+,1,BasicAssembler,,,3,False
+Bronze Cog,2,BasicAssembler,Tin Bar x1,Bronze Cog x2,3,False
+Carbon Rod,3,ElectricSmelter,Coal x2,Carbon Rod x1,6,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+Composite Plate,4,AutomatedAssembler,Carbon Rod x1; Diamond x1,Composite Plate x1,10,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+Copper Wire,2,BasicAssembler,Copper Bar x1,Copper Wire x4,2,True
+Crystal Lens,4,AutomatedAssembler,Glass x1; Quartz Crystal x1,Crystal Lens x1,6,False
+Diamond Lens,5,MassAssembler,Glass x1; Diamond x1; Alloy Mesh x1,Diamond Lens x1,10,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+Glass Lens,3,IndustrialAssembler,Glass x2,Glass Lens x1,4,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+Iron Plate,1,BasicAssembler,Iron Bar x1,Iron Plate x2,2,True
+Iron Rod,1,BasicAssembler,Iron Bar x1,Iron Rod x2,2,True
+,1,BasicAssembler,,,3,False
+Power Core (Basic),3,IndustrialAssembler,Steel Plate x1; Battery Cell (Large) x1,Power Core (Basic) x1,8,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
+,1,BasicAssembler,,,3,False
