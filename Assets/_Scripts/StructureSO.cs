@@ -1,10 +1,7 @@
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "MiningGame/Structure")]
+[CreateAssetMenu(menuName = "Game/Structure")]
 public class StructureSO : ScriptableObject, IConstructible
 {
-    public string structureName;
-    public int tier;
-
-    public string ObjectType => "Structure";
+    public AssetKind kind = AssetKind.Structure;
 }

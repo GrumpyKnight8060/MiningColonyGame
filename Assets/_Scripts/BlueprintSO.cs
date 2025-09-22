@@ -1,10 +1,11 @@
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "MiningGame/Blueprint")]
+[CreateAssetMenu(menuName = "Game/Blueprint")]
 public class BlueprintSO : ScriptableObject, IConstructible
 {
-    public string blueprintName;
-    public int tier;
+    public AssetKind kind = AssetKind.Blueprint;
 
-    public string ObjectType => "Blueprint";
+    public string blueprintName;
+    public StructureSO targetStructure; // what this blueprint builds
+    public int researchTierRequired;
 }

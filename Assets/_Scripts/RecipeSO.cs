@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 
-[CreateAssetMenu(menuName = "MiningGame/Recipe")]
+[CreateAssetMenu(menuName = "Game/Recipe")]
 public class RecipeSO : ScriptableObject, IConstructible
 {
-    public ScriptableObject[] inputs;
-    public ScriptableObject output;
-    public int time;
-    public int tier;
+    public AssetKind kind = AssetKind.Recipe;
 
-    public string ObjectType => "Recipe";
+    public string recipeName;
+    public ScriptableObject[] inputs;   // Resources or Items
+    public ScriptableObject output;     // Resource, Item, or Structure
+    public float craftTime;
 }
