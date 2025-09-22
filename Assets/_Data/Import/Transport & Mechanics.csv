@@ -1,0 +1,10 @@
+Type,Name,Tier,Refined,BaseValue,MaxStack,Category
+Item,Fasteners (Bolts),2,, ,400,Component
+Item,Bearing,3,, ,200,Component
+Item,Axle,3,, ,100,Component
+Item,Wheel Assembly,3,, ,50,Component
+Item,Tire,3,, ,100,Component
+Item,Frame Rail (Steel),3,, ,100,Component
+Item,Engine Block,4,, ,50,Component
+Item,Fuel Cell (Motor),4,, ,50,Power
+Item,Truck Frame,4,, ,20,Component

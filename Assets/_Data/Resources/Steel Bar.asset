@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Steel Bar
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Steel Bar
-  icon: {fileID: 0}
   tier: 3
-  maxStack: 9999
-  isRefined: 1
-  baseValue: 8
-  rarityWeight: 0
+  maxStack: 100
+  baseValue: 7
+  refined: 1

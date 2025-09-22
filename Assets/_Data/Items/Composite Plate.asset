@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Composite Plate
   m_EditorClassIdentifier: Assembly-CSharp::ItemSO
   displayName: Composite Plate
-  icon: {fileID: 0}
-  tier: 1
-  maxStack: 9999
+  tier: 4
+  maxStack: 100
+  category: Component

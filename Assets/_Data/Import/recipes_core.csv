@@ -1,0 +1,51 @@
+RecipeName,Tier,Stations,Inputs,Outputs,Time,Unlocked
+# --- Smelting / metals ---
+Iron Bar Recipe,2,StoneSmelter,Iron Ore x2,Iron Bar x1,4,True
+Copper Bar Recipe,2,StoneSmelter,Copper Ore x2,Copper Bar x1,4,True
+Tin Bar Recipe,2,StoneSmelter,Tin Ore x2,Tin Bar x1,4,True
+Steel Bar Recipe,3,ElectricSmelter,Iron Ore x2; Coal x1,Steel Bar x1,6,False
+Silver Bar Recipe,3,ElectricSmelter,Silver Ore x2,Silver Bar x1,6,False
+Gold Bar Recipe,4,BlastFurnace,Gold Ore x2; Coal x1,Gold Bar x1,8,False
+
+# --- Basic components (Assembler rules: T1=1 input; T3/4=2 inputs; T6=3 max) ---
+Iron Plate,1,BasicAssembler,Iron Bar x1,Iron Plate x2,2,True
+Iron Rod,1,BasicAssembler,Iron Bar x1,Iron Rod x2,2,True
+Steel Plate,3,IndustrialAssembler,Steel Bar x1,Steel Plate x2,3,False
+Steel Rod,3,IndustrialAssembler,Steel Bar x1,Steel Rod x2,3,False
+Bronze Cog,2,BasicAssembler,Tin Bar x1,Bronze Cog x2,3,False
+Steel Cog,3,IndustrialAssembler,Steel Bar x1,Steel Cog x2,3,False
+Fasteners (Bolts),2,BasicAssembler,Iron Bar x1,Fasteners (Bolts) x4,2,True
+Bearing,3,IndustrialAssembler,Steel Bar x1,Bearing x2,3,False
+Axle,3,IndustrialAssembler,Steel Rod x2,Axle x1,4,False
+Frame Rail (Steel),3,IndustrialAssembler,Steel Plate x2,Frame Rail (Steel) x1,5,False
+
+# --- Optics subparts ---
+Glass,2,StoneSmelter,Sand (Silica) x2,Glass x1,4,True
+Glass Lens,3,IndustrialAssembler,Glass x2,Glass Lens x1,4,False
+Crystal Lens,4,AutomatedAssembler,Glass x1; Quartz Crystal x1,Crystal Lens x1,6,False
+Diamond Lens,5,MassAssembler,Glass x1; Diamond x1; Alloy Mesh x1,Diamond Lens x1,10,False
+
+# --- Electronics ---
+Copper Wire,2,BasicAssembler,Copper Bar x1,Copper Wire x4,2,True
+Circuit Board,3,IndustrialAssembler,Copper Wire x2; Iron Plate x1,Circuit Board x1,6,False
+Circuit Module Mk.I (Copper),3,IndustrialAssembler,Circuit Board x1; Copper Wire x2,Circuit Module Mk.I (Copper) x1,8,False
+Circuit Module Mk.II (Silver),4,AutomatedAssembler,Circuit Board x1; Silver Bar x1,Circuit Module Mk.II (Silver) x1,10,False
+Circuit Module Mk.III (Gold),5,MassAssembler,Circuit Board x1; Gold Bar x1; Copper Wire x2,Circuit Module Mk.III (Gold) x1,12,False
+
+# --- Chemicals / energy ---
+Rubber,3,BasicRefinery,Rubber Sap (Latex) x2,Rubber x1,6,False
+Plastic,3,IndustrialRefinery,Oil x2; Hydrogen (Gas) x1,Plastic x1,8,False
+Acid,3,IndustrialRefinery,Oil x1; Sulfur (Refined) x1,Acid x1,8,False
+Fuel (Refined),3,BasicRefinery,Oil x2,Fuel (Refined) x1,6,True
+Coolant,3,IndustrialRefinery,Water x2; Electrolyte x1,Coolant x1,6,False
+
+# --- Carbon / composites ---
+Carbon Rod,3,ElectricSmelter,Coal x2,Carbon Rod x1,6,False
+Composite Plate,4,AutomatedAssembler,Carbon Rod x1; Diamond x1,Composite Plate x1,10,False
+
+# --- Power parts ---
+Battery Cell (Small),2,BasicAssembler,Copper Wire x2,Battery Cell (Small) x1,3,True
+Battery Cell (Large),3,IndustrialAssembler,Steel Plate x1; Copper Wire x2,Battery Cell (Large) x1,5,False
+Solar Cell,3,IndustrialAssembler,Glass x1; Copper Wire x2,Solar Cell x1,6,False
+Solar Array Module,4,AutomatedAssembler,Solar Cell x2; Steel Plate x1,Solar Array Module x1,8,False
+Power Core (Basic),3,IndustrialAssembler,Steel Plate x1; Battery Cell (Large) x1,Power Core (Basic) x1,8,False

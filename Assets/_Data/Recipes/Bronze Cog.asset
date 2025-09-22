@@ -13,14 +13,15 @@ MonoBehaviour:
   m_Name: Bronze Cog
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Bronze Cog
-  icon: {fileID: 0}
-  tier: 3
-  stations: 01000000
+  tier: 2
+  stations: 00000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: 65fbb6fb6be39ab4eada638372d6e34e, type: 2}
+  - item: {fileID: 11400000, guid: fca9acfa77b99024f9c58ed8de3989ed, type: 2}
     amount: 1
-    isLiquid: 0
-  outputs: []
+  outputs:
+  - target: {fileID: 11400000, guid: 3ef7d743118c34043a322585487506db, type: 2}
+    amount: 2
   craftTimeSeconds: 3
   unlockedByDefault: 0
-  unlockTag: 
+  researchTier: -1
+  researchWeight: 0.5

@@ -13,20 +13,15 @@ MonoBehaviour:
   m_Name: Battery Cell (Small)
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Battery Cell (Small)
-  icon: {fileID: 0}
-  tier: 3
-  stations: 01000000
+  tier: 2
+  stations: 00000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: d83e9288c970fdf4e9fc330d3cded171, type: 2}
+  - item: {fileID: 11400000, guid: d83e9288c970fdf4e9fc330d3cded171, type: 2}
+    amount: 2
+  outputs:
+  - target: {fileID: 11400000, guid: b6a8a1ff3807df147b8cafe4e0e1fd61, type: 2}
     amount: 1
-    isLiquid: 0
-  - ingredient: {fileID: 11400000, guid: e12338d7949bb5a40ac7466bdf0180b4, type: 2}
-    amount: 1
-    isLiquid: 0
-  - ingredient: {fileID: 11400000, guid: ecc15be20008a3a48bab89bd0eabbb86, type: 2}
-    amount: 1
-    isLiquid: 0
-  outputs: []
-  craftTimeSeconds: 6
-  unlockedByDefault: 0
-  unlockTag: 
+  craftTimeSeconds: 3
+  unlockedByDefault: 1
+  researchTier: -1
+  researchWeight: 0.5

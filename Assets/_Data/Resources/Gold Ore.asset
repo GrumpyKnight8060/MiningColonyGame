@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Gold Ore
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Gold Ore
-  icon: {fileID: 0}
   tier: 3
-  maxStack: 9999
-  isRefined: 0
-  baseValue: 8
-  rarityWeight: 0.1
+  maxStack: 100
+  baseValue: 12
+  refined: 0

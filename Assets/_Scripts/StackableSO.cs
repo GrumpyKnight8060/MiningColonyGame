@@ -1,10 +1,10 @@
+// Assets/_Scripts/StackableSO.cs
 using UnityEngine;
 
-// Base for anything that can live in inventory (resource OR item)
-public abstract class StackableSO : ScriptableObject
+public class StackableSO : ScriptableObject
 {
+    [Header("Common")]
     public string displayName;
-    public Sprite icon;
-    [Range(1, 9)] public int tier = 1;
-    public int maxStack = 9999;
+    [Range(1, 6)] public int tier = 1;
+    [Min(1)] public int maxStack = 100;
 }

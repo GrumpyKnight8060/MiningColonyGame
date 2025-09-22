@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Oil
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Oil
-  icon: {fileID: 0}
   tier: 2
-  maxStack: 9999
-  isRefined: 0
+  maxStack: 100
   baseValue: 3
-  rarityWeight: 0.4
+  refined: 0

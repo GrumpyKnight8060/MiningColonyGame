@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Silver Bar
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Silver Bar
-  icon: {fileID: 0}
   tier: 3
-  maxStack: 9999
-  isRefined: 1
+  maxStack: 100
   baseValue: 9
-  rarityWeight: 0
+  refined: 1

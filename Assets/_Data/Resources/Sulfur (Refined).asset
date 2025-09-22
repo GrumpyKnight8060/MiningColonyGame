@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Sulfur (Refined)
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Sulfur (Refined)
-  icon: {fileID: 0}
   tier: 3
-  maxStack: 9999
-  isRefined: 1
-  baseValue: 6
-  rarityWeight: 0
+  maxStack: 100
+  baseValue: 8
+  refined: 1

@@ -1,0 +1,51 @@
+Type,Name,Tier,Refined,BaseValue,MaxStack,Category
+Resource,Coal,1,false,1,100,
+Resource,Wood,1,false,1,200,
+Resource,Stone,1,false,1,200,
+Resource,Oil,2,false,3,100,
+Resource,Water,1,false,1,200,
+Resource,Sand (Silica),1,false,3,200,
+Resource,Quartz Crystal,2,false,8,100,
+Resource,Diamond (Uncut),3,false,15,50,
+Resource,Copper Ore,1,false,1,200,
+Resource,Iron Ore,1,false,1,200,
+Resource,Tin Ore,1,false,1,200,
+Resource,Gold Ore,3,false,12,100,
+Resource,Silver Ore,2,false,7,100,
+Resource,Sulfur (Mining),2,false,6,100,
+Resource,Sulfur (Refined),3,true,8,100,
+Resource,Rubber Sap (Latex),2,false,4,100,
+Resource,Hydrogen (Gas),3,true,10,200,
+Resource,Electrolyte,3,true,9,200,
+Resource,Enriched Uranium,5,true,40,20,
+
+Resource,Iron Bar,2,true,5,100,
+Resource,Copper Bar,2,true,5,100,
+Resource,Tin Bar,2,true,5,100,
+Resource,Steel Bar,3,true,7,100,
+Resource,Gold Bar,4,true,12,100,
+Resource,Silver Bar,3,true,9,100,
+
+Item,Iron Rod,1,, ,200,Component
+Item,Iron Plate,1,, ,200,Component
+Item,Steel Rod,3,, ,200,Component
+Item,Steel Plate,3,, ,200,Component
+Item,Bronze Cog,2,, ,200,Component
+Item,Steel Cog,3,, ,200,Component
+Item,Copper Wire,2,, ,400,Component
+Item,Circuit Board,3,, ,200,Electronics
+Item,Circuit Module Mk.I (Copper),3,, ,100,Electronics
+Item,Circuit Module Mk.II (Silver),4,, ,100,Electronics
+Item,Circuit Module Mk.III (Gold),5,, ,100,Electronics
+Item,Glass,2,, ,200,Component
+Item,Glass Lens,3,, ,100,Optics
+Item,Crystal Lens,4,, ,100,Optics
+Item,Diamond Lens,5,, ,50,Optics
+Item,Optics Housing,3,, ,200,Optics
+Item,Solar Cell,3,, ,200,Power
+Item,Solar Array Module,4,, ,50,Power
+Item,Battery Cell (Small),2,, ,200,Power
+Item,Battery Cell (Large),3,, ,100,Power
+Item,Power Core (Basic),3,, ,50,Power
+Item,Fuel (Refined),3,, ,200,Power
+Item,Coolant,3,, ,200,Power

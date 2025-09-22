@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Electrolyte
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Electrolyte
-  icon: {fileID: 0}
-  tier: 4
-  maxStack: 9999
-  isRefined: 1
-  baseValue: 6
-  rarityWeight: 0
+  tier: 3
+  maxStack: 200
+  baseValue: 9
+  refined: 1

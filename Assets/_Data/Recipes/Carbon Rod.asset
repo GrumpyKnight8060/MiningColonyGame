@@ -13,16 +13,15 @@ MonoBehaviour:
   m_Name: Carbon Rod
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Carbon Rod
-  icon: {fileID: 0}
-  tier: 4
-  stations: 06000000
+  tier: 3
+  stations: 05000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: 821047d3478cda24c9c24b9ed468d33c, type: 2}
-    amount: 3
-    isLiquid: 0
+  - item: {fileID: 11400000, guid: 821047d3478cda24c9c24b9ed468d33c, type: 2}
+    amount: 2
   outputs:
-  - product: {fileID: 11400000, guid: 0ddf2d3513c49884da5c86d820b10c19, type: 2}
+  - target: {fileID: 11400000, guid: 0ddf2d3513c49884da5c86d820b10c19, type: 2}
     amount: 1
-  craftTimeSeconds: 8
-  unlockedByDefault: 1
-  unlockTag: Materials
+  craftTimeSeconds: 6
+  unlockedByDefault: 0
+  researchTier: -1
+  researchWeight: 0.5

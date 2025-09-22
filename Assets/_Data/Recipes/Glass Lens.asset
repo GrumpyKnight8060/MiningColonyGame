@@ -13,16 +13,15 @@ MonoBehaviour:
   m_Name: Glass Lens
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Glass Lens
-  icon: {fileID: 0}
-  tier: 2
-  stations: 00000000
+  tier: 3
+  stations: 01000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: d9a7c8e883d5fa24ba9bf0159f4af31b, type: 2}
+  - item: {fileID: 11400000, guid: d9a7c8e883d5fa24ba9bf0159f4af31b, type: 2}
     amount: 2
-    isLiquid: 0
   outputs:
-  - product: {fileID: 11400000, guid: 27a295adcfe80bf4ea09a519f7132e49, type: 2}
+  - target: {fileID: 11400000, guid: 27a295adcfe80bf4ea09a519f7132e49, type: 2}
     amount: 1
   craftTimeSeconds: 4
-  unlockedByDefault: 1
-  unlockTag: Optics
+  unlockedByDefault: 0
+  researchTier: -1
+  researchWeight: 0.5

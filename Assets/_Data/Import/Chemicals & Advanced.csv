@@ -1,0 +1,7 @@
+Type,Name,Tier,Refined,BaseValue,MaxStack,Category
+Item,Carbon Rod,3,, ,200,Component
+Item,Composite Plate,4,, ,100,Component
+Item,Rubber,3,, ,200,Component
+Item,Acid,3,, ,200,Chemical
+Item,Plastic,3,, ,200,Chemical
+Item,Lens,4,, ,100,Optics

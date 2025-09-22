@@ -13,16 +13,15 @@ MonoBehaviour:
   m_Name: Iron Plate
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Iron Plate
-  icon: {fileID: 0}
-  tier: 2
+  tier: 1
   stations: 00000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: dca832ec45dcb0e48a698c267a3909f3, type: 2}
+  - item: {fileID: 11400000, guid: dca832ec45dcb0e48a698c267a3909f3, type: 2}
     amount: 1
-    isLiquid: 0
   outputs:
-  - product: {fileID: 11400000, guid: 76743215eeb10484c97b391df2a2eb1c, type: 2}
-    amount: 0
-  craftTimeSeconds: 4
-  unlockedByDefault: 0
-  unlockTag: 
+  - target: {fileID: 11400000, guid: c78cf6d9092f271488094bfbf0aa3bdc, type: 2}
+    amount: 2
+  craftTimeSeconds: 2
+  unlockedByDefault: 1
+  researchTier: -1
+  researchWeight: 0.5

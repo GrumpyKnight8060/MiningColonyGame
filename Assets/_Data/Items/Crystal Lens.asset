@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Crystal Lens
   m_EditorClassIdentifier: Assembly-CSharp::ItemSO
   displayName: Crystal Lens
-  icon: {fileID: 0}
-  tier: 1
-  maxStack: 9999
+  tier: 4
+  maxStack: 100
+  category: Optics

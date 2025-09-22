@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Silver Ore
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Silver Ore
-  icon: {fileID: 0}
-  tier: 3
-  maxStack: 9999
-  isRefined: 0
+  tier: 2
+  maxStack: 100
   baseValue: 7
-  rarityWeight: 0.12
+  refined: 0

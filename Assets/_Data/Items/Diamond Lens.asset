@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Diamond Lens
   m_EditorClassIdentifier: Assembly-CSharp::ItemSO
   displayName: Diamond Lens
-  icon: {fileID: 0}
-  tier: 1
-  maxStack: 9999
+  tier: 5
+  maxStack: 50
+  category: Optics

@@ -13,16 +13,15 @@ MonoBehaviour:
   m_Name: Copper Wire
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Copper Wire
-  icon: {fileID: 0}
   tier: 2
   stations: 00000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: 80ad2d76930e062448b66d983115f3e5, type: 2}
+  - item: {fileID: 11400000, guid: 80ad2d76930e062448b66d983115f3e5, type: 2}
     amount: 1
-    isLiquid: 0
   outputs:
-  - product: {fileID: 11400000, guid: d83e9288c970fdf4e9fc330d3cded171, type: 2}
-    amount: 2
+  - target: {fileID: 11400000, guid: d83e9288c970fdf4e9fc330d3cded171, type: 2}
+    amount: 4
   craftTimeSeconds: 2
-  unlockedByDefault: 0
-  unlockTag: 
+  unlockedByDefault: 1
+  researchTier: -1
+  researchWeight: 0.5

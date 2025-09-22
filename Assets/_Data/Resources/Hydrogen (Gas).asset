@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Hydrogen (Gas)
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Hydrogen (Gas)
-  icon: {fileID: 0}
-  tier: 4
-  maxStack: 9999
-  isRefined: 1
-  baseValue: 6
-  rarityWeight: 0
+  tier: 3
+  maxStack: 200
+  baseValue: 10
+  refined: 1

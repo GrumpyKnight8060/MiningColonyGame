@@ -1,4 +1,5 @@
+// Assets/_Scripts/IConstructible.cs
 public interface IConstructible
 {
-    string ObjectType { get; }
+    AssetKind Kind { get; }
 }

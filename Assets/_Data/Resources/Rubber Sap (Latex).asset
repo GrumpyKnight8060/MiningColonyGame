@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Rubber Sap (Latex)
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Rubber Sap (Latex)
-  icon: {fileID: 0}
   tier: 2
-  maxStack: 9999
-  isRefined: 0
-  baseValue: 3
-  rarityWeight: 0.2
+  maxStack: 100
+  baseValue: 4
+  refined: 0

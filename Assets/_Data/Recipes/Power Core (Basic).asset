@@ -13,19 +13,17 @@ MonoBehaviour:
   m_Name: Power Core (Basic)
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Power Core (Basic)
-  icon: {fileID: 0}
-  tier: 6
-  stations: 03000000
+  tier: 3
+  stations: 01000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: b78ec9f681dc7f240b7f1a118ebc8177, type: 2}
+  - item: {fileID: 11400000, guid: 9286b95d42004c14ca91cfa240b3f282, type: 2}
     amount: 1
-    isLiquid: 0
-  - ingredient: {fileID: 11400000, guid: b78ec9f681dc7f240b7f1a118ebc8177, type: 2}
+  - item: {fileID: 11400000, guid: b78ec9f681dc7f240b7f1a118ebc8177, type: 2}
     amount: 1
-    isLiquid: 0
   outputs:
-  - product: {fileID: 11400000, guid: 8cc4d8db3714ce248b54220a2dc9e0cb, type: 2}
+  - target: {fileID: 11400000, guid: 8cc4d8db3714ce248b54220a2dc9e0cb, type: 2}
     amount: 1
-  craftTimeSeconds: 16
+  craftTimeSeconds: 8
   unlockedByDefault: 0
-  unlockTag: Power1
+  researchTier: -1
+  researchWeight: 0.5

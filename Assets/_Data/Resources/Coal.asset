@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Coal
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Coal
-  icon: {fileID: 0}
   tier: 1
-  maxStack: 9999
-  isRefined: 0
+  maxStack: 100
   baseValue: 1
-  rarityWeight: 0.9
+  refined: 0

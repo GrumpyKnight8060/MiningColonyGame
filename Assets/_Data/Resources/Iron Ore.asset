@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Iron Ore
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Iron Ore
-  icon: {fileID: 0}
   tier: 1
-  maxStack: 9999
-  isRefined: 0
+  maxStack: 200
   baseValue: 1
-  rarityWeight: 1
+  refined: 0

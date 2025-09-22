@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Copper Bar
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Copper Bar
-  icon: {fileID: 0}
   tier: 2
-  maxStack: 9999
-  isRefined: 1
+  maxStack: 100
   baseValue: 5
-  rarityWeight: 0
+  refined: 1

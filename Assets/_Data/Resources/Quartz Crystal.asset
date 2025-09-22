@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Quartz Crystal
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Quartz Crystal
-  icon: {fileID: 0}
   tier: 2
-  maxStack: 9999
-  isRefined: 0
-  baseValue: 12
-  rarityWeight: 0.12
+  maxStack: 100
+  baseValue: 8
+  refined: 0

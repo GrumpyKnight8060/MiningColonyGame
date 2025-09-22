@@ -12,11 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e200de6e3a89152478b805d046ccbe83, type: 3}
   m_Name: Iron Plate
   m_EditorClassIdentifier: Assembly-CSharp::ItemSO
-  itemName: Iron Plate
-  icon: {fileID: 0}
+  displayName: Iron Plate
   tier: 1
-  recipeInputs:
-  - resource: {fileID: 11400000, guid: dca832ec45dcb0e48a698c267a3909f3, type: 2}
-    amount: 2
-  craftTimeSeconds: 0
-  outputQuantity: 1
+  maxStack: 200
+  category: Component

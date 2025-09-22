@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Glass Lens
   m_EditorClassIdentifier: Assembly-CSharp::ItemSO
   displayName: Glass Lens
-  icon: {fileID: 0}
-  tier: 1
-  maxStack: 9999
+  tier: 3
+  maxStack: 100
+  category: Optics

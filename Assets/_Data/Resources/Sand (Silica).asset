@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Sand (Silica)
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Sand (Silica)
-  icon: {fileID: 0}
   tier: 1
-  maxStack: 9999
-  isRefined: 0
-  baseValue: 2
-  rarityWeight: 0.25
+  maxStack: 200
+  baseValue: 3
+  refined: 0

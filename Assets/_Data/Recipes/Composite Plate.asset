@@ -13,16 +13,17 @@ MonoBehaviour:
   m_Name: Composite Plate
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Composite Plate
-  icon: {fileID: 0}
-  tier: 5
+  tier: 4
   stations: 02000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: 0ddf2d3513c49884da5c86d820b10c19, type: 2}
+  - item: {fileID: 11400000, guid: 0ddf2d3513c49884da5c86d820b10c19, type: 2}
     amount: 1
-    isLiquid: 0
+  - item: {fileID: 11400000, guid: 7210522480e110c4aaa1abbb6f7be64c, type: 2}
+    amount: 1
   outputs:
-  - product: {fileID: 11400000, guid: 80145571b3807f64d912feddc75df2bb, type: 2}
+  - target: {fileID: 11400000, guid: 80145571b3807f64d912feddc75df2bb, type: 2}
     amount: 1
   craftTimeSeconds: 10
-  unlockedByDefault: 1
-  unlockTag: Materials
+  unlockedByDefault: 0
+  researchTier: -1
+  researchWeight: 0.5

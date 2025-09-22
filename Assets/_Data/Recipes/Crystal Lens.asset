@@ -13,19 +13,17 @@ MonoBehaviour:
   m_Name: Crystal Lens
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Crystal Lens
-  icon: {fileID: 0}
-  tier: 3
-  stations: 01000000
+  tier: 4
+  stations: 02000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: d9a7c8e883d5fa24ba9bf0159f4af31b, type: 2}
+  - item: {fileID: 11400000, guid: d9a7c8e883d5fa24ba9bf0159f4af31b, type: 2}
     amount: 1
-    isLiquid: 0
-  - ingredient: {fileID: 11400000, guid: 5d9689ada377c7d43a283039bb0667de, type: 2}
+  - item: {fileID: 11400000, guid: 5d9689ada377c7d43a283039bb0667de, type: 2}
     amount: 1
-    isLiquid: 0
   outputs:
-  - product: {fileID: 11400000, guid: c748ad77e4c954744a0ca8a5a5f15ecd, type: 2}
+  - target: {fileID: 11400000, guid: c748ad77e4c954744a0ca8a5a5f15ecd, type: 2}
     amount: 1
   craftTimeSeconds: 6
-  unlockedByDefault: 1
-  unlockTag: Optics
+  unlockedByDefault: 0
+  researchTier: -1
+  researchWeight: 0.5

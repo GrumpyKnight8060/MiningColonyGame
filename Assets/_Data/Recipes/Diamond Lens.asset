@@ -13,16 +13,19 @@ MonoBehaviour:
   m_Name: Diamond Lens
   m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
   recipeName: Diamond Lens
-  icon: {fileID: 0}
   tier: 5
-  stations: 02000000
+  stations: 03000000
   inputs:
-  - ingredient: {fileID: 11400000, guid: c748ad77e4c954744a0ca8a5a5f15ecd, type: 2}
+  - item: {fileID: 11400000, guid: d9a7c8e883d5fa24ba9bf0159f4af31b, type: 2}
     amount: 1
-    isLiquid: 0
+  - item: {fileID: 11400000, guid: 7210522480e110c4aaa1abbb6f7be64c, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: e40ec803175508747b279673100f3c67, type: 2}
+    amount: 1
   outputs:
-  - product: {fileID: 11400000, guid: 326fa3d1267828c49b80ef3468838998, type: 2}
+  - target: {fileID: 11400000, guid: 326fa3d1267828c49b80ef3468838998, type: 2}
     amount: 1
-  craftTimeSeconds: 8
-  unlockedByDefault: 1
-  unlockTag: Optics
+  craftTimeSeconds: 10
+  unlockedByDefault: 0
+  researchTier: -1
+  researchWeight: 0.5

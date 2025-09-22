@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Gold Bar
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Gold Bar
-  icon: {fileID: 0}
-  tier: 3
-  maxStack: 9999
-  isRefined: 1
-  baseValue: 10
-  rarityWeight: 0
+  tier: 4
+  maxStack: 100
+  baseValue: 12
+  refined: 1

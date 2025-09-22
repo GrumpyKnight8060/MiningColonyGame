@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Sulfur (Mining)
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Sulfur (Mining)
-  icon: {fileID: 0}
   tier: 2
-  maxStack: 9999
-  isRefined: 0
-  baseValue: 2
-  rarityWeight: 0.15
+  maxStack: 100
+  baseValue: 6
+  refined: 0

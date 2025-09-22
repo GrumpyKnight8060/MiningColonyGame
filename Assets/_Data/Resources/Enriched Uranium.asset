@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Enriched Uranium
   m_EditorClassIdentifier: Assembly-CSharp::ResourceSO
   displayName: Enriched Uranium
-  icon: {fileID: 0}
-  tier: 6
-  maxStack: 9999
-  isRefined: 1
-  baseValue: 60
-  rarityWeight: 0
+  tier: 5
+  maxStack: 20
+  baseValue: 40
+  refined: 1
